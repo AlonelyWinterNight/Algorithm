@@ -1,7 +1,9 @@
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Scanner;
-
+/*
+ * HashMap의 키를 HashMap으로 활용하여, SQL(DB)의 복합키 처럼 사용해봤다.
+ */
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
