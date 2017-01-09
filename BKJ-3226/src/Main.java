@@ -26,13 +26,12 @@ public class Main {
 	}
 
 	public static int CalFee(int HH, int MM, int DD) {
-		System.out.println("Total Fee for the Call which took at " + HH + ":" + MM + " " + DD);
 		int fee = 0;
 		while(DD-- > 0){
 			if (HH >= 7 && HH <= 18) {
 				fee += 10;
 			} else {
-				fee += 5;
+				fee += 5; 
 			}
 
 			if (MM + 1 == 60) { // 통화 시작시간에서 통화시간을 점차 더한 값이 60이 되면
