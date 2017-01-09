@@ -49,6 +49,7 @@ public class Main {
 	}
 }
 
+
 /*
  * Test case : 1st - 150 correctly // 2nd - 225 correctly 
 1 
