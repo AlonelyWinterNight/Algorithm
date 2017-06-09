@@ -1,0 +1,6 @@
+Biology 3 C
+History 3 B
+Database 3 A
+English 4 B
+Java 3 A
+Algorithms 3 A
